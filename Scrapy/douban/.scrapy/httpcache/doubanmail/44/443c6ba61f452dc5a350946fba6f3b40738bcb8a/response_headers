@@ -1,0 +1,14 @@
+X-Xss-Protection: 1; mode=block
+X-Dae-App: accounts
+X-Content-Type-Options: nosniff
+X-Douban-Mobileapp: 0
+Expires: Sun, 1 Jan 2006 01:00:00 GMT
+X-Dae-Node: sindar7c
+Server: dae
+Location: https://accounts.douban.com/login?alias=%E6%82%A8%E7%9A%84%E8%B4%A6%E5%8F%B7&redir=https%3A%2F%2Fwww.douban.com%2F&source=None&error=1008
+Pragma: no-cache
+Cache-Control: must-revalidate, no-cache, private
+Date: Sun, 19 Mar 2017 06:18:17 GMT
+Strict-Transport-Security: max-age=15552000;
+Content-Type: text/plain
+X-Frame-Options: SAMEORIGIN

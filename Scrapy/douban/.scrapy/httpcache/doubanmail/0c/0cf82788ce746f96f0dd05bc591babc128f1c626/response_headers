@@ -1,0 +1,18 @@
+X-Xss-Protection: 1; mode=block
+X-Dae-App: accounts
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+X-Douban-Mobileapp: 0
+Set-Cookie: ck="uaN2"; path=/; domain=.douban.com
+Set-Cookie: ck=uaN2; Domain=.douban.com; Path=/
+Expires: Sun, 1 Jan 2006 01:00:00 GMT
+X-Dae-Node: dis10
+Server: dae
+Pragma: no-cache
+Cache-Control: must-revalidate, no-cache, private
+Date: Sun, 19 Mar 2017 06:19:53 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000;
+Content-Type: text/html; charset=utf-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN

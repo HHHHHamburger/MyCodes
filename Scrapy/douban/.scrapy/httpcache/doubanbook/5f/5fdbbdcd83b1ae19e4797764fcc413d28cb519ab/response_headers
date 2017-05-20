@@ -1,0 +1,16 @@
+X-Xss-Protection: 1; mode=block
+X-Dae-App: book
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+X-Douban-Mobileapp: 0
+Set-Cookie: bid=bP_NxW1wJKc; Expires=Mon, 19-Mar-18 05:56:54 GMT; Domain=.douban.com; Path=/
+Expires: Sun, 1 Jan 2006 01:00:00 GMT
+Vary: Accept-Encoding
+X-Douban-Newbid: bP_NxW1wJKc
+Pragma: no-cache
+Cache-Control: must-revalidate, no-cache, private
+Date: Sun, 19 Mar 2017 05:56:54 GMT
+Strict-Transport-Security: max-age=15552000;
+Server: dae
+Content-Type: text/html; charset=utf-8
+X-Dae-Node: sindar20a
